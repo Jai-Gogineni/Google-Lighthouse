@@ -1,4 +1,4 @@
-# Lighthouse DEMO on asos website 
+# Lighthouse DEMO on ASOS website 
 
 Lighthouse is a tool that provides a variety of statistics about a given url such as:
 
