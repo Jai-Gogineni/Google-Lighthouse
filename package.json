@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "dependencies": {
+    "lighthouse": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "lighthouse \"http://www.asos.com?q=jeans\"",
+    "light:asos": "npm run test -- --view --output-path=./lighthouse-reports/lighthouse-local.html"
+  }
+}
